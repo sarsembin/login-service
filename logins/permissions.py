@@ -1,0 +1,2 @@
+class CannotManage(Exception):
+    pass
